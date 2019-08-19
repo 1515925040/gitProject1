@@ -9,6 +9,7 @@ public class MybatisplustestApplication {
     public static void main(String[] args) {
 
         System.out.println("mybatis测试");
+        System.out.println("分支的测试测试");
         SpringApplication.run(MybatisplustestApplication.class, args);
 
     }

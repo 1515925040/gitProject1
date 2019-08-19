@@ -10,7 +10,7 @@ public class MybatisplustestApplication {
 
         System.out.println("mybatis测试");
         System.out.println("分支的测试测试");
-        System.out.println("分支修改的的测试测试");
+        System.out.println("分支修改");
         SpringApplication.run(MybatisplustestApplication.class, args);
 
     }
